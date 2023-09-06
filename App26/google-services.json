@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "596555982187",
+    "project_id": "csharpproject-c7b56",
+    "storage_bucket": "csharpproject-c7b56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596555982187:android:4c0565d305001dadf3582e",
+        "android_client_info": {
+          "package_name": "com.vdubecky.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "596555982187-3c9om6hcrinh8edga3h2ha257ash5ekk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9A2Ex3kbEg6Ud3nGL05w1xWaOuxUbsv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "596555982187-3c9om6hcrinh8edga3h2ha257ash5ekk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
